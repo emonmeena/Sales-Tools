@@ -1,0 +1,8 @@
+*.venv
+*.csv
+*.png
+public_bpc_companies.json
+*.txt
+chromedriver*
+*.env
+main.py

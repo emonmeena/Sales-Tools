@@ -1,0 +1,60 @@
+[
+  {
+    "cards": [
+      {
+        "companyId": 51347,
+        "urlName": "namanemana",
+        "name": "namanemana",
+        "shortName": "namanemana",
+        "logo": "namanemana",
+        "logoUrl": "https://namanemana",
+        "reviewCount": 120441,
+        "salariesCount": 444584,
+        "interviewsCount": 60,
+        "jobsCount": 2,
+        "benefitsCount": 132,
+        "photosCount": 2,
+        "newsCount": 0,
+        "qnaQuestionsCount": 0,
+        "highlyRatedFor": [
+          {
+            "name": "Job Security",
+            "urlName": "job-security",
+            "ratings": 4.02
+          },
+          {
+            "name": "Work Life Balance",
+            "urlName": "work-life-balance",
+            "ratings": 3.91
+          }
+        ],
+        "criticallyRatedFor": [
+          {
+            "name": "Promotions / Appraisal",
+            "urlName": "promotions-appraisal",
+            "ratings": 3.2
+          }
+        ],
+        "primaryIndustry": "Beauty & Personal Care",
+        "totalEmployeesIndia": "1001-5000",
+        "totalEmployees": "1001-5000",
+        "companyRating": 4.05,
+        "age": 50,
+        "topLocationDetail": {
+          "name": "Kolkata",
+          "urlName": "kolkata",
+          "totalLocationsCount": 149
+        },
+        "awardYear": null,
+        "isVerifiedEmployer": false,
+        "tag": {
+          "Id": null,
+          "Name": "Public",
+          "UrlName": "public",
+          "GroupType": null
+        },
+        "isSubscribed": false
+      }
+    ]
+  }
+]
